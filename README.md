@@ -2,6 +2,9 @@
     <h1>Heloo</h1>
 </div>
 
+# Hobby
+**平和な**アニメが大好きです。鬱や感動系のアニメは自分自身の心が病んでしまうため名作であろうとみません。
+
 <!--
 **Meziro039/Meziro039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

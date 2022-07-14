@@ -1,6 +1,5 @@
 <div align="center">
-    ![banner](https://raw.githubusercontent.com/Meziro039/About/main/web-banner.png)
-    <h1>Heloo!!</h1>
+<img src="https://raw.githubusercontent.com/Meziro039/About/main/web-banner.png">
 </div>
 
 # Hobby

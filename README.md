@@ -10,6 +10,13 @@
 # Hobby
 **平和な**アニメが大好きです。鬱や感動系のアニメは自分自身の心が病んでしまうため名作であろうとみません。  
 
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=meziro039&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meziro039&layout=compact&theme=dracula" />
+</a>
+
 <!--
 **Meziro039/Meziro039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Meziro039/Playground/main/E97E2295-6819-4CB9-AC4F-876831D955B6.jpeg">
+<img src="https://github.com/Meziro039/AboutMe/raw/main/img/banner/meziro_banner.png">
 </div>
 
 # Quick About

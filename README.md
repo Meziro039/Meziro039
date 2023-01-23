@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Meziro039/AboutMe/raw/main/img/banner/meziro_banner.png">
+<img src="https://user-images.githubusercontent.com/78205092/213995700-dc89e30d-9b71-4e60-b861-f0108998ea00.png">
 </div>
 
 # Quick About
